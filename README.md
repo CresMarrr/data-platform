@@ -1,6 +1,6 @@
 # Logistics Analytics
 
-Delivery performance analytics for CresMart: SQL, Excel and Power BI.
+Delivery performance analytics for CresMarr: SQL, Excel and Power BI.
 
 **Owner:** Data Analyst, Precious Mojolaoluwa OJO  
 
