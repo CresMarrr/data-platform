@@ -2,7 +2,8 @@
 
 Delivery performance analytics for CresMart: SQL, Excel and Power BI.
 
-**Owner:** Data Analyst, Precious Mojolaoluwa OJO  **Reviewer:** Edwin Sunday UMANA
+**Owner:** Data Analyst, Precious Mojolaoluwa OJO  
+**Reviewer:** Edwin Sunday UMANA
 **Dataset:** Olist Brazilian E-Commerce, https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 Your job in this repo is to measure how well deliveries perform, find where and why they run late, and hand your findings to the data science team. Read the Phase 1 notice in `company-handbook` first.
@@ -23,7 +24,7 @@ Your job in this repo is to measure how well deliveries perform, find where and 
 ## Phase 1 tasks (Weeks 1 to 4)
 
 ### Task 0: Set up (Week 1, first 2 days)
-1. Install Git, Power BI Desktop and PostgreSQL (SQLite is acceptable to start, but tell me so we keep queries compatible).
+1. Tools needed: Git, Power BI Desktop and PostgreSQL (SQLite is acceptable to start, but tell me so we keep queries compatible).
 2. Create a Kaggle account and download the dataset. Unzip it into a folder called `data/raw/` on your computer.
 3. Clone this repo and make sure `data/` is listed in `.gitignore`. **Never commit the raw CSV files.**
 
