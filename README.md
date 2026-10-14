@@ -3,7 +3,9 @@
 Delivery performance analytics for CresMart: SQL, Excel and Power BI.
 
 **Owner:** Data Analyst, Precious Mojolaoluwa OJO  
+
 **Reviewer:** Edwin Sunday UMANA
+
 **Dataset:** Olist Brazilian E-Commerce, https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 Your job in this repo is to measure how well deliveries perform, find where and why they run late, and hand your findings to the data science team. Read the Phase 1 notice in `company-handbook` first.
